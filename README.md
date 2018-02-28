@@ -107,20 +107,21 @@ Le message "user:kkpo try to logging to the database01 on main server but fail" 
 La source de cette information peut être également nécessaire et contrinue à répondre à cette question.
 "user:kkpo on 127.0.0.1 try to logging to the database01 on main server but fail"
 
+Ajouter un "time stamp" à un message de log permet de répondre à la question "when". Ainsi notre message pourrait être enrichie de la manière suivante
+"Tue 01-01-2009 6:00 user:kkpo try to logging to the database01 on main server but fail". Il est également important de noter que dans les applications
+distribués, le timestamp est une donnée essenciel et indispensable à la compréhension d'un fichier log.
 
+De plus, la cause du message (the reason) est également essenciel à l'analyste. NOtre message deviendrait alors : 
+"Tue 01-01-2009 6:00 user:kkpo try to logging to the database01 on main server but fail -- password incorrect"
+Cela répond donc à la question du "pourquoi" (why).
 
-b. La problématique des fichiers logs
+Enfin l'action aide à répondre à la question "how" en fournissant le contexte du message, dans notre exemple ce paramètre est implicite car en lisant le message
+nous savons qu'il s'agit de l'authentification et plus particulièrement du login.
 
+Ainsi, au travers de cette ensemble de recommandation, nous pouvons dores et déjà observer qu'un fichier journal ne s'écrit pas de manière anodine.
+Ce dernier à un but précis, et dois forunir un certain nombre d'informations à son lecteur.
 
+_________________________________
 
+Quel format pour un fichier de log ? 
 
-____________________
-
-
-On distingue ainsi deux types de logs: 
-    _ Les logs dit de sécurité (Security audit logs)
-    _ Les logs de debugging
-
-Si les premiers sont utilisé et concervé durant plusieurs années (en fonction de la politique de sécurité mise en place), les seconds compte à eux
-ne sont utilisé que durant quelques heures ou quelques jours le temps de trouver une erreur ou une faille dans un système.
-Ces deux types de journaux étant différents, il est important de différencier le type d'informations
