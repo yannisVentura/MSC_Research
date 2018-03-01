@@ -22,10 +22,12 @@ __________________________________
     c. Le besoin.
 
 #II. Etat de l'art
+
     a. Les outils de bigs data au service des logs
     b. IDE msc etc...
    
 #III. Proposition de solution
+
     a. Elastic Search au service des los
     b. Une méthode de conversion formel
     
