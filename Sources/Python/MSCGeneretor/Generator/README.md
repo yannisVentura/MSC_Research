@@ -7,5 +7,5 @@ _________________________________________
 
 Schéma généré 
 
-![Alt Text]("Sources/Python/MSCGeneretor\msc_files/test.svg")
+![Alt Text](MSCGeneretor/msc_files/test.svg)
 
