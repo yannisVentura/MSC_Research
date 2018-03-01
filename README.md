@@ -14,13 +14,11 @@ Enfin nous finierons avec une proposition de solution et diverses recommandation
 
 __________________________________
 
-<<<<<<< Updated upstream
 I. Introduction
     a. Qu'es ce qu'un bon fichier de log.
-=======
+
 #I. Introduction
     a. Qu'es ce qu'un bon fichier de log ?
->>>>>>> Stashed changes
     b. Le Message Sequence Chart.
     c. Le besoin.
 
