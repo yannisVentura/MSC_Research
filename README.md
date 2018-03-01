@@ -1,10 +1,9 @@
 # MSC_Research
-Recherches msc specifications
 
 
 Le but de ce projet est de répondre à la problématique suivante :
-Comment représenter graphiquement via le langage SDL des communications issus de fichiers logs ?
-Ainsi pour un fichier de log en entré la question est de savoir par quels mécanique on pourrait aboutir à la
+Comment représenter graphiquement via le langage SDL des communications issues de fichiers logs ?
+Ainsi pour un fichier de log en entrée la question est de savoir par quelles mécaniques on pourrait aboutir à la
 formalisation de ces derniers dans un format graphique, le Message Sequence Chart.
 
 Ainsi afin de répondre à cette thématique il est nécessaire dans un premier temps de définir un fichier de log
@@ -14,16 +13,19 @@ Enfin nous finierons avec une proposition de solution et diverses recommandation
 
 __________________________________
 
-I. Introduction
+# Plan [preview. Peut-être destiné à changer]
+
+#I. Introduction
+    
     a. Qu'es ce qu'un bon fichier de log ?
     b. Le Message Sequence Chart.
     c. Le besoin.
 
-II. Etat de l'art
+#II. Etat de l'art
     a. Les outils de bigs data au service des logs
     b. IDE msc etc...
    
-III. Proposition de solution
+#III. Proposition de solution
     a. Elastic Search au service des los
     b. Une méthode de conversion formel
     
