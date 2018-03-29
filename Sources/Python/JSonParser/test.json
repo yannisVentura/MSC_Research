@@ -1,0 +1,9 @@
+{
+  "name":"Node1",
+  "links":[{
+    "type":"->",
+    "start":"Node1",
+    "end":"Node3",
+    "msg":{"label":"message_test"}
+  }
+}

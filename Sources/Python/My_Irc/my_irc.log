@@ -1,0 +1,196 @@
+INFO:root:127.0.0.1send :helloto 
+INFO:root:Server liscten to 8080
+INFO:root:Server listening...
+INFO:root:Initialise client on 127.0.0.1
+INFO:root:127.0.0.1send :Helloto server
+INFO:root:Request receive from127.0.0.1
+INFO:root:Send response to 127.0.0.1
+CRITICAL:root:KeyboardInterrupt
+INFO:root:receive response : HELLO
+WARNING:root:Client close
+INFO:root:Initialise client on 127.0.0.1
+INFO:root:127.0.0.1send :Heyto server
+INFO:root:Request receive from127.0.0.1
+INFO:root:Send response to 127.0.0.1
+CRITICAL:root:KeyboardInterrupt
+INFO:root:Server listening...
+INFO:root:receive response : HEY
+WARNING:root:Client close
+INFO:root:Initialise client on 127.0.0.1
+INFO:root:127.0.0.1send :helloto server
+INFO:root:Request receive from127.0.0.1
+INFO:root:Send response to 127.0.0.1
+CRITICAL:root:KeyboardInterrupt
+INFO:root:Server listening...
+INFO:root:receive response : HELLO
+INFO:root:Initialise client on 127.0.0.1
+INFO:root:127.0.0.1send :my name is yannisto server
+INFO:root:Request receive from127.0.0.1
+INFO:root:Send response to 127.0.0.1
+CRITICAL:root:KeyboardInterrupt
+INFO:root:Server listening...
+INFO:root:receive response : MY NAME IS YANNIS
+INFO:root:Initialise client on 127.0.0.1
+INFO:root:127.0.0.1send :nice to meet you !to server
+INFO:root:Request receive from127.0.0.1
+INFO:root:Send response to 127.0.0.1
+CRITICAL:root:KeyboardInterrupt
+INFO:root:Server listening...
+INFO:root:receive response : NICE TO MEET YOU !
+INFO:root:Initialise client on 127.0.0.1
+INFO:root:127.0.0.1send :Do you speak tcp/ip ? to server
+INFO:root:Request receive from127.0.0.1
+INFO:root:Send response to 127.0.0.1
+CRITICAL:root:KeyboardInterrupt
+INFO:root:Server listening...
+INFO:root:receive response : DO YOU SPEAK TCP/IP ? 
+INFO:root:Initialise client on 127.0.0.1
+INFO:root:127.0.0.1send :Maybe Javascript ?to server
+INFO:root:Request receive from127.0.0.1
+INFO:root:Send response to 127.0.0.1
+CRITICAL:root:KeyboardInterrupt
+INFO:root:Server listening...
+INFO:root:receive response : MAYBE JAVASCRIPT ?
+INFO:root:Initialise client on 127.0.0.1
+INFO:root:127.0.0.1send :to server
+INFO:root:Request receive from127.0.0.1
+INFO:root:Send response to 127.0.0.1
+CRITICAL:root:KeyboardInterrupt
+INFO:root:Server listening...
+INFO:root:receive response : 
+INFO:root:Initialise client on 127.0.0.1
+INFO:root:127.0.0.1send :Python is the best programming language to server
+INFO:root:Request receive from127.0.0.1
+INFO:root:Send response to 127.0.0.1
+CRITICAL:root:KeyboardInterrupt
+INFO:root:Server listening...
+INFO:root:receive response : PYTHON IS THE BEST PROGRAMMING LANGUAGE 
+INFO:root:Initialise client on 127.0.0.1
+INFO:root:127.0.0.1send :Yep !to server
+INFO:root:Request receive from127.0.0.1
+INFO:root:Send response to 127.0.0.1
+CRITICAL:root:KeyboardInterrupt
+INFO:root:Server listening...
+INFO:root:receive response : YEP !
+INFO:root:Initialise client on 127.0.0.1
+INFO:root:127.0.0.1send :he he he he heto server
+INFO:root:Request receive from127.0.0.1
+INFO:root:Send response to 127.0.0.1
+CRITICAL:root:KeyboardInterrupt
+INFO:root:Server listening...
+INFO:root:receive response : HE HE HE HE HE
+INFO:root:Initialise client on 127.0.0.1
+INFO:root:127.0.0.1send :it's work !!!!!!!!!!to server
+INFO:root:Request receive from127.0.0.1
+INFO:root:Send response to 127.0.0.1
+CRITICAL:root:KeyboardInterrupt
+INFO:root:Server listening...
+INFO:root:receive response : IT'S WORK !!!!!!!!!!
+INFO:root:Initialise client on 127.0.0.1
+INFO:root:127.0.0.1send :Let's make some jokes now !to server
+INFO:root:Request receive from127.0.0.1
+INFO:root:Send response to 127.0.0.1
+CRITICAL:root:KeyboardInterrupt
+INFO:root:Server listening...
+INFO:root:receive response : LET'S MAKE SOME JOKES NOW !
+INFO:root:Initialise client on 127.0.0.1
+INFO:root:127.0.0.1send :Or just some tests to server
+INFO:root:Request receive from127.0.0.1
+INFO:root:Send response to 127.0.0.1
+CRITICAL:root:KeyboardInterrupt
+INFO:root:Server listening...
+INFO:root:receive response : OR JUST SOME TESTS 
+INFO:root:Initialise client on 127.0.0.1
+INFO:root:127.0.0.1send :Compared with other programming languages, Python’s class mechanism adds classes with a minimum of new syntax and semantics. It is a mixture of the class mechanisms found in C++ and Modula-3. Python classes provide all the standard features of Object Oriented Programming: the class inheritance mechanism allows multiple base classes, a derived class can override any methods of its base class or classes, and a method can call the method of a base class with the same name. Objects can contain arbitrary amounts and kinds of data. As is true for modules, classes partake of the dynamic nature of Python: they are created at runtime, and can be modified further after creation.to server
+INFO:root:Server liscten to 8080
+INFO:root:Server listening...
+INFO:root:Initialise client on 127.0.0.1
+INFO:root:127.0.0.1send :Hey I broke my program !to server
+INFO:root:Request receive from127.0.0.1
+INFO:root:Send response to 127.0.0.1
+CRITICAL:root:KeyboardInterrupt
+INFO:root:Server listening...
+INFO:root:receive response : HEY I BROKE MY PROGRAM !
+INFO:root:Initialise client on 127.0.0.1
+INFO:root:127.0.0.1send :Let's try something else !!to server
+INFO:root:Request receive from127.0.0.1
+INFO:root:Send response to 127.0.0.1
+CRITICAL:root:KeyboardInterrupt
+INFO:root:Server listening...
+T'S TRY SOMETHING ELSE !!
+INFO:root:Initialise client on 127.0.0.1
+INFO:root:127.0.0.1send :In C++ terminology, normally class members (including the data members) are public (except see below Private Variables and Class-local References), and all member functions are virtual. As in Modula-3, there are no shorthands for referencing the object’s members from its methods: the method function is declared with an explicit first argument representing the object, which is provided implicitly by the call.to server
+INFO:root:Server liscten to 8080
+INFO:root:Server listening...
+CRITICAL:root:Usage: client.py <ip> <port>
+CRITICAL:root:Exit 1
+INFO:root:Initialise client on 127.0.0.1
+INFO:root:127.0.0.1send :hey, I add some try except issus to my codeto server
+INFO:root:Request receive from127.0.0.1
+INFO:root:Send response to 127.0.0.1
+INFO:root:Server listening...
+INFO:root:receive response : HEY, I ADD SOME TRY EXCEPT ISSUS TO MY CODE
+INFO:root:Initialise client on 127.0.0.1
+INFO:root:127.0.0.1send :Let's try this !to server
+INFO:root:Request receive from127.0.0.1
+INFO:root:Send response to 127.0.0.1
+INFO:root:Server listening...
+INFO:root:receive response : LET'S TRY THIS !
+INFO:root:Initialise client on 127.0.0.1
+INFO:root:127.0.0.1send :It's should be fun !to server
+INFO:root:Request receive from127.0.0.1
+INFO:root:Send response to 127.0.0.1
+INFO:root:Server listening...
+INFO:root:receive response : IT'S SHOULD BE FUN !
+INFO:root:Initialise client on 127.0.0.1
+INFO:root:127.0.0.1send :Compared with other programming languages, Python’s class mechanism adds classes with a minimum of new syntax and semantics. It is a mixture of the class mechanisms found in C++ and Modula-3. Python classes provide all the standard features of Object Oriented Programming: the class inheritance mechanism allows multiple base classes, a derived class can override any methods of its base class or classes, and a method can call the method of a base class with the same name. Objects can contain arbitrary amounts and kinds of data. As is true for modules, classes partake of the dynamic nature of Python: they are created at runtime, and can be modified further after creation.to server
+INFO:root:Server liscten to 8080
+INFO:root:Server listening...
+INFO:root:Initialise client on 127.0.0.1
+INFO:root:127.0.0.1send :Hey !to server
+INFO:root:Request receive from127.0.0.1
+INFO:root:Send response to 127.0.0.1
+INFO:root:Server listening...
+INFO:root:receive response : HEY !
+INFO:root:Initialise client on 127.0.0.1
+INFO:root:127.0.0.1send :Compared with other programming languages, Python’s class mechanism adds classes with a minimum of new syntax and semantics. It is a mixture of the class mechanisms found in C++ and Modula-3. Python classes provide all the standard features of Object Oriented Programming: the class inheritance mechanism allows multiple base classes, a derived class can override any methods of its base class or classes, and a method can call the method of a base class with the same name. Objects can contain arbitrary amounts and kinds of data. As is true for modules, classes partake of the dynamic nature of Python: they are created at runtime, and can be modified further after creation.to server
+ERROR:root:Error message to long :( so bad !!
+WARNING:root:Server stop
+INFO:root:Server liscten to 8080
+INFO:root:Server listening...
+INFO:root:Server liscten to 7070
+INFO:root:Server listening...
+INFO:root:Initialise client on 127.0.0.1
+INFO:root:127.0.0.1send :hé hé but the client still unavailable for this type of problem'sto server
+INFO:root:Request receive from127.0.0.1
+INFO:root:Send response to 127.0.0.1
+INFO:root:Server listening...
+INFO:root:receive response : HÉ HÉ BUT THE CLIENT STILL UNAVAILABLE FOR THIS TYPE OF PROBLEM'S
+INFO:root:Initialise client on 127.0.0.1
+INFO:root:Initialise client on 127.0.0.1
+INFO:root:127.0.0.1send :Hey I'm new here !to server
+INFO:root:Request receive from127.0.0.1
+INFO:root:Send response to 127.0.0.1
+INFO:root:Server listening...
+INFO:root:receive response : HEY I'M NEW HERE !
+INFO:root:Initialise client on 127.0.0.1
+INFO:root:127.0.0.1send :Hello server to server
+INFO:root:Request receive from127.0.0.1
+INFO:root:Send response to 127.0.0.1
+INFO:root:Server listening...
+INFO:root:receive response : HELLO SERVER 
+INFO:root:Initialise client on 127.0.0.1
+INFO:root:127.0.0.1send ::3to server
+INFO:root:Request receive from127.0.0.1
+INFO:root:Send response to 127.0.0.1
+INFO:root:Server listening...
+INFO:root:receive response : :3
+INFO:root:Initialise client on 127.0.0.1
+INFO:root:Request receive from127.0.0.1
+INFO:root:Send response to 127.0.0.1
+INFO:root:Server listening...
+INFO:root:Initialise client on 127.0.0.1
+INFO:root:Request receive from127.0.0.1
+INFO:root:Send response to 127.0.0.1
+INFO:root:Server listening...
+INFO:root:Initialise client on 127.0.0.1
